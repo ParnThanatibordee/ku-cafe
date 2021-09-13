@@ -10,7 +10,9 @@
 
 | Name                  | Role        | Github        |
 |:----------------------|-------------|---------------|
+| Thakonwan Jantimaporn | Breakfast | [@ppoo90](https://github.com/ppoo90)|
+| Thanabardi Tashasiraphat | Lunch | [@Thanabardi](https://github.com/Thanabardi) |
 | Thanathip Suwannakhot | Dinner menu | [@danyouknowme](https://github.com/danyouknowme) |
 | Thanatibordee Sihaboonthong | Night food | [@ParnThanatibordee](https://github.com/ParnThanatibordee) |
 | Vitvara Varavithya | Beverage | [@vitvara](https://github.com/vitvara) |
-| Thanabardi Tashasiraphat | Lunch | [@Thanabardi](https://github.com/Thanabardi) |
+

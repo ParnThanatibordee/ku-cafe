@@ -2,7 +2,13 @@
 [Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#beverages)
 
 ## Breakfast
-
+| Item                             | Price    |
+|:---------------------------------|:-------  |
+|  Cereal                          |  20 Baht |
+|  Chicken & Waffles               |  25 Baht | 
+|  Egg & Sausage                   |  20 Baht |
+|  Fruits & Yogurt                 |  20 Baht |
+|  Toast & Egg                     |  25 Baht |
 
 ## Lunch 
 | Item      |Price           |
@@ -11,7 +17,6 @@
 | Fried Chicken Steak with French Fries | 120 Baht|
 | Fried Rice with Fried Egg | 70 Baht|
 | Garlic Chicken Rice with Fried Egg | 80 Baht|
-
 
 ## Dinner
 | Item                | Price    |
