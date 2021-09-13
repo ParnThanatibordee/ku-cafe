@@ -11,4 +11,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Thanabardi Tashasiraphat | Lunch | @Thanabardi |

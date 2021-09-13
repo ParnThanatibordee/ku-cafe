@@ -10,10 +10,10 @@
 ## Lunch 
 | Item      |Price           |
 |:----------|-----------------|
-| Fried Rice with Fried Egg | 70 |
-| Garlic Chicken Rice with Fried Egg | 80 |
-| Fried (and or) Boiled Chicken Rice | 80 |
-| Fried Chicken Steak with French Fries | 120 |
+| Fried Boiled Chicken Rice | 80 Baht|
+| Fried Chicken Steak with French Fries | 120 Baht|
+| Fried Rice with Fried Egg | 70 Baht|
+| Garlic Chicken Rice with Fried Egg | 80 Baht|
 
 
 ## Dinner
