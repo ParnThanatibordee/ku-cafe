@@ -21,11 +21,11 @@
 
 | Item      | Price          |
 |:----------|-----------------|
-| Plain paranta | 20 |
-| Jeera Rice | 180 |
-| Chilli Paneer | 210 |
-| Plain Omelette | 60 |
-| Vanilla Shake | 80 |
+| Chilli Paneer | 210 Baht |
+| Jeera Rice | 180 Baht |
+| Plain Omelette | 60 Baht |
+| Plain Paranta | 20 Baht |
+| Vanilla Shake | 80 Baht |
 
 ## Beverages
 
