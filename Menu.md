@@ -22,6 +22,13 @@
 
 ## Beverages
 
+|     Item      |     Price     |
+| ------------- | ------------- |
+| Soda  | 30  |
+| Coffee  | 30  |
+| tea  | 30  |
+| Ice tea  | 60  |
+| Lemonade  | 60  |
 
 
 ---
