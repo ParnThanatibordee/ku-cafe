@@ -1,11 +1,8 @@
 # KU Cafe Menu
-
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#beverages)
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
 
@@ -15,6 +12,13 @@
 
 ## Night Food
 
+| Item      | Price          |
+|:----------|-----------------|
+| Plain paranta | 20 |
+| Jeera Rice | 180 |
+| Chilli Paneer | 210 |
+| Plain Omelette | 60 |
+| Vanilla Shake | 80 |
 
 ## Beverages
 
