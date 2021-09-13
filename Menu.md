@@ -3,9 +3,13 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+   | Item                             | Price
+   |:---------------------------------|:-------
+   |  Chicken & Waffles               |  20 Bt
+   |  Toast & Egg                     |  15 Bt
+   |  cereal                          |  15 Bt
+   |  Fruits & Yogurt                 |  20 Bt
+   |  Egg & Sausage                   |  25 Bt 
 
 ## Lunch 
 
