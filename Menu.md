@@ -1,11 +1,8 @@
 # KU Cafe Menu
-
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#beverages)
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
 | Item      |Price           |
@@ -17,12 +14,35 @@
 
 
 ## Dinner
+| Menu                | Price    |
+|:--------------------|----------|
+| Spaghetti Carbonara | 180 Baht |
+| Fried chicken       | 140 Baht |
+| Katsu-Don           | 150 Baht |
+| Mushroom Soup       | 120 Baht |
+| Ramen               | 90 Baht  |
 
 
 ## Night Food
 
+| Item      | Price          |
+|:----------|-----------------|
+| Chilli Paneer | 210 Baht |
+| Jeera Rice | 180 Baht |
+| Plain Omelette | 60 Baht |
+| Plain Paranta | 20 Baht |
+| Vanilla Shake | 80 Baht |
 
 ## Beverages
+
+|     Item      |     Price     |
+| ------------- | ------------- |
+| Coffee  | 30 Baht |
+| Ice tea  | 60 Baht |
+| Lemonade  | 60 Baht  |
+| Soda  | 30 Baht |
+| Tea  | 30 Baht |
+
 
 
 
