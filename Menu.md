@@ -5,14 +5,13 @@
 
    | Item                             | Price
    |:---------------------------------|:-------
-   |  Chicken & Waffles               |  20 Bt
-   |  Toast & Egg                     |  15 Bt
-   |  cereal                          |  15 Bt
-   |  Fruits & Yogurt                 |  20 Bt
-   |  Egg & Sausage                   |  25 Bt 
+   |  Cereal                          |  20 Baht
+   |  Chicken & Waffles               |  25 Baht
+   |  Egg & Sausage                   |  20 Baht
+   |  Fruits & Yogurt                 |  20 Baht
+   |  Toast & Egg                     |  25 Baht 
 
 ## Lunch 
-
 
 ## Dinner
 
