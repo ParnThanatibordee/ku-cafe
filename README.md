@@ -11,4 +11,4 @@
 |:----------------------|-------------|---------------|
 | Thanathip Suwannakhot | Dinner menu | [danyouknowme](https://github.com/danyouknowme) |
 | Thanatibordee Sihaboonthong | Night food | [@ParnThanatibordee](https://github.com/ParnThanatibordee) |
-| Vitvara Varavithya | Beverage | [vitvara](https://github.com/vitvara) |
+| Vitvara Varavithya | Beverage | [@vitvara](https://github.com/vitvara) |

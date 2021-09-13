@@ -37,11 +37,13 @@
 
 |     Item      |     Price     |
 | ------------- | ------------- |
-| Soda  | 30  |
-| Coffee  | 30  |
-| tea  | 30  |
-| Ice tea  | 60  |
-| Lemonade  | 60  |
+| Coffee  | 30 Baht |
+| Ice tea  | 60 Baht |
+| Lemonade  | 60 Baht  |
+| Soda  | 30 Baht |
+| Tea  | 30 Baht |
+
+
 
 
 ---
