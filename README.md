@@ -11,5 +11,5 @@
 
 | Name                  | Role        | Github        |
 |:----------------------|-------------|---------------|
-| Thanathip Suwannakhot | Dinner menu | @danyouknowme |
+| Thanathip Suwannakhot | Dinner menu | [danyouknowme](https://github.com/danyouknowme) |
 | Vitvara Varavithya | Beverage | [vitvara](https://github.com/vitvara) |
