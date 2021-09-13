@@ -2,13 +2,11 @@
 
 ## [Menu](Menu.md)
 
-**TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
+[Breakfast](Menu.md/#breakfast) | [Lunch](Menu.md/#lunch) | [Dinner](Menu.md/#dinner) | [Night Food](Menu.md/#night-food) | [Beverages](Menu.md/#beverages)
 
 
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points deducted if one person adds everyone.
-
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Thanatibordee Sihaboonthong | Night food | @ParnThanatibordee |
