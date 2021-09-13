@@ -14,13 +14,13 @@
 
 
 ## Dinner
-| Menu                | Price    |
+| Item                | Price    |
 |:--------------------|----------|
-| Spaghetti Carbonara | 180 Baht |
-| Fried chicken       | 140 Baht |
+| Fried Chicken       | 140 Baht |
 | Katsu-Don           | 150 Baht |
 | Mushroom Soup       | 120 Baht |
 | Ramen               | 90 Baht  |
+| Spaghetti Carbonara | 180 Baht |
 
 
 ## Night Food
