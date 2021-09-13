@@ -7,6 +7,8 @@
 
 ## About Us
 
-| Name      | Role      | Github          |
-|:----------|-----------|-----------------|
-| Thanatibordee Sihaboonthong | Night food | @ParnThanatibordee |
+| Name                  | Role        | Github        |
+|:----------------------|-------------|---------------|
+| Thanathip Suwannakhot | Dinner menu | [danyouknowme]((https://github.com/danyouknowme) |
+| Thanatibordee Sihaboonthong | Night food | [ParnThanatibordee](https://github.com/ParnThanatibordee) |
+| Vitvara Varavithya | Beverage | [vitvara](https://github.com/vitvara) |
